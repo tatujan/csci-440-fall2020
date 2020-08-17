@@ -56,11 +56,17 @@ We will accept the pull request, and your private work repo will be registered f
 
 Each homework has it's own directory (`/hwk0`, `/hwk1`, etc.).  Please do your work in the homework directory
 
-## Project: TBD
+## Project: Chinook Web App
 
 You will be implementing a web application against a SQL store, found in `/db/chinook.db`
 
-Details coming soon.
+The web application will be an open-ended project, but must include the following:
+
+* All entities in the chinookdb must be surfaced in the web application
+* At least one entity must have all CRUD operations surfaced
+* Search with at least two inputs must be implemented
+* At least one report-like page must exist that makes use of a `GROUP BY` clause
+
 
 ### Project Resources
 
